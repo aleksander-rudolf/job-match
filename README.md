@@ -14,7 +14,7 @@ To install and run Job Match locally, follow these steps:
 1. Clone this repository to your local machine
 
 ```cmd
-$ git clone https://github.com/University-Of-Calgary-Software-Projects/job-match-web-app
+$ git clone https://github.com/aleksander-rudolf/job-match.git
 ```
 
 2. Install the required packages and dependencies
