@@ -37,7 +37,3 @@ $ npm start
 * Save and track your favorite job listings
 * Create and manage your job seeker profile
 * Get notifications when new job listings that match your profile become available
-
-## License
-
-Job Match is licensed under the MIT license.
